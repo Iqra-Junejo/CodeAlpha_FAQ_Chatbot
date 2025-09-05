@@ -23,5 +23,3 @@ It uses a **keyword + fuzzy matching approach** for understanding queries, and p
 1. Clone the repository:
    ```bash
    git clone https://github.com/your-username/CodeAlpha_FAQ_Chatbot.git
-## 🔍 How It Looks
-<img width="787" height="730" alt="image" src="https://github.com/user-attachments/assets/8a0a4281-498a-4ca7-9986-a2245325c4c0" />
