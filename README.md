@@ -1,4 +1,4 @@
-# 🤖 CodeAlpha FAQ Chatbot
+# 🤖 FAQ Chatbot
 
 This is **Task 2** of my **AI Internship at CodeAlpha** – an **Intelligent FAQ Chatbot** built with **Python & Tkinter**.
 
