@@ -1,9 +1,4 @@
 # 🤖 FAQ Chatbot
-
-This is **Task 2** of my **AI Internship at CodeAlpha** – an **Intelligent FAQ Chatbot** built with **Python & Tkinter**.
-
----
-
 ## 📌 Project Overview
 The chatbot is designed to automatically answer frequently asked questions (FAQs) about CyberSecurity.  
 It uses a **keyword + fuzzy matching approach** for understanding queries, and provides responses from a predefined FAQ knowledge base.  
