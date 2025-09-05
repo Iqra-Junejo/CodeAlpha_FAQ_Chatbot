@@ -5,13 +5,13 @@ This is **Task 2** of my **AI Internship at CodeAlpha** – an **Intelligent FAQ
 ---
 
 ## 📌 Project Overview
-The chatbot is designed to automatically answer frequently asked questions (FAQs) about the CodeAlpha internship program.  
+The chatbot is designed to automatically answer frequently asked questions (FAQs) about CyberSecurity.  
 It uses a **keyword + fuzzy matching approach** for understanding queries, and provides responses from a predefined FAQ knowledge base.  
 
 ---
 
 ## ✨ Features
-- 🧠 Answers internship-related FAQs  
+- 🧠 Answers Cyber Security realted FAQs  
 - 🔍 Handles typos/variations using Python’s `difflib`  
 - 🎨 Interactive GUI built with Tkinter  
 - ⚡ Quick and lightweight (no heavy libraries needed)  
